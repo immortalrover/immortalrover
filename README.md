@@ -1,4 +1,12 @@
 ### Hi there 👋
+## About me
+I'm rover, a student.
+
+### Likes
+* Computer!
+* Archlinux
+* Hyprland
+* vim
 
 <!--
 **immortalrover/immortalrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
