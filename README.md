@@ -4,7 +4,7 @@ I'm rover, a student.
 
 ### Likes
 * Computer!
-* Archlinux
+* Arch Linux
 * Hyprland
 * vim
 
