@@ -1,12 +1,10 @@
 ### Hi there 👋
-## About me
-I'm rover, a student.
+A student.
 
-### Likes
-* Computer!
-* Arch Linux
-* Hyprland
-* vim
+### Current likes
+- NixOS
+- Neovim
+- Sway
 
 ### Stats
 [![Rover's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortalrover&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
